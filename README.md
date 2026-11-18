@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi I'm Isabel 👋
 
-# Biostatistics Portfolio – Isabel Ramaisa
+**Data Analyst, Biostatisian and Youtuber**
 
 I am a Biostatistics MSc graduate with experience in epidemiological analysis, regression modelling, and public health research, with a focus on maternal nutrition.
 
