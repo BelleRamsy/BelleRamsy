@@ -2,7 +2,7 @@
 
 **Data Analyst, Biostatisian and Youtuber**
 
-I am a Biostatistics MSc graduate with experience in epidemiological analysis, regression modelling, and public health research, with a focus on maternal nutrition.
+My focus is in epidemiological analysis, regression modelling, and public health research, with a focus on maternal nutrition.
 
 ## 🔬 Projects
 
