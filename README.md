@@ -1,8 +1,8 @@
-## Hi I'm Isabel 👋
+## Hi I'm Isabel 👋, 
 
-**Data Analyst, Biostatisian and Youtuber**
+## Data Analyst, Biostatisian and Youtuber
 
-My focus is in epidemiological analysis, regression modelling, and public health research, with a focus on maternal nutrition.
+My focus is in epidemiological analysis, regression modelling, and public health research, with a focus on maternal health.
 
 ## 🔬 Projects
 
@@ -23,8 +23,14 @@ My focus is in epidemiological analysis, regression modelling, and public health
 - R (tidyverse, regression modelling)
 - Python (pandas, statsmodels)
 - SQL
-- Epidemiology & biostatistics
+- Meta-analysis
 
 ## 📫 Contact
 - Email: ils.ramaisa@yahoo.com
-- LinkedIn: 
+- LinkedIn:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ....
+- ⚡ Fun fact: ...
